@@ -1,0 +1,9 @@
+<archetype>
+  <id>fuse6.1-archetype</id>
+  <sources/>
+    <resources>
+        <resource>src/main/resources/log4j.properties</resource>
+    </resources>
+  <testSources>
+  </testSources>
+</archetype>
